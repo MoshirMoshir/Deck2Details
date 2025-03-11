@@ -2,6 +2,8 @@
 
 A simple Python program that processes an exported MTG deck in *text format*, fetches each card's information from **Scryfall API**, and outputs a neatly formatted text file with **card descriptions, types, mana costs, power/toughness, and deck size**.
 
+### I've included an example deck input and output, as well as instructions below 
+
 ## Features
 - Fetches accurate card data from **Scryfall API**  
 - **Includes card details**: Type, mana cost, power/toughness, and abilities  
