@@ -1,142 +1,66 @@
 1 Agent of Masks
 1 Ajani's Welcome
-1 Ajani, Strength of the Pride
-1 Alhammarret's Archive
-1 Angelic Accord
 1 Anguished Unmaking
 1 Archangel of Thune
 1 Athreos, God of Passage
 1 Authority of the Consuls
-1 Baron Bertram Graywater
 1 Bastion of Remembrance
-1 Beacon of Immortality
 1 Bitterblossom
 1 Black Market Connections
-1 Blasphemous Edict
 1 Bleachbone Verge
-1 Blind Obedience
-1 Blood Artist
-1 Bloodchief Ascension
 1 Bloodletter of Aclazotz
-1 Bloodthirsty Conqueror
 1 Bojuka Bog
-1 Bontu's Monument
-1 Boon Reflection
 1 Brightclimb Pathway // Grimclimb Pathway
-1 Caduceus, Staff of Hermes
 1 Case of the Uneaten Feast
 1 Cat Collector
 1 Celestine, the Living Saint
-1 Charismatic Conqueror
-1 Cleric Class
 1 Cliffhaven Vampire
 1 Command Tower
 1 Concealed Courtyard
-1 Corpse Knight
-1 Cosmos Elixir
 1 Creeping Bloodsucker
-1 Cruel Celebrant
-1 Crypt Ghast
-1 Crypt Incursion
 1 Damn
 1 Damnation
-1 Dark Ritual
-1 Dawn of Hope
 1 Daxos, Blessed by the Sun
 1 Deadly Dispute
 1 Deadly Rollick
-1 Debt to the Deathless
-1 Deification
-1 Demonic Tutor
 1 Denethor, Ruling Steward
 1 Desolate Mire
-1 Despark
-1 Diabolic Intent
-1 Diabolic Tutor
-1 Drana and Linvala
 1 Drana's Emissary
 1 Elas il-Kor, Sadistic Pilgrim
 1 Elenda's Hierophant
-1 Elenda, Saint of Dusk
-1 Elenda, the Dusk Rose
 1 Enduring Tenacity
 1 Essence Channeler
 1 Exemplar of Light
-1 Exquisite Blood
-1 Exsanguinate
 1 Fabled Passage
-1 Falkenrath Noble
-1 Feast of the Victorious Dead
-1 Feed the Swarm
-1 Fell
 1 Fetid Heath
-1 Flawless Maneuver
 1 Forlorn Flats
 1 Fracture
-1 Fumigate
 1 Generous Gift
-1 Ghostly Prison
-1 Glasswing Grace // Age-Graced Chapel
 1 Godless Shrine
-1 Gollum, Obsessed Stalker
 1 Griffin Aerie
-1 Grim Tutor
 1 Heliod's Intervention
 1 Heliod, Sun-Crowned
-1 Imperial Seal
 1 Indulging Patrician
-1 Infernal Grasp
-1 Inkshield
 1 Insatiable Avarice
 1 Isolated Chapel
-1 Jet Medallion
 1 Kambal, Consul of Allocation
-1 Kambal, Profiteering Mayor
 1 Karlov of the Ghost Council
 1 Kaya's Wrath
-1 Kaya, Intangible Slayer
-1 Land Tax
-1 Leyline of Hope
-1 Liesa, Forgotten Archangel
-1 Liesa, Shroud of Dusk
-1 Lifecreed Duo
-1 Liliana's Talent
 1 Lunar Convocation
-1 Malakir Rebirth // Malakir Mire
 1 Marauding Blight-Priest
 1 March of the Canonized
-1 Markov Purifier
-1 Midnight Snack
-1 Minthara, Merciless Soul
 1 Mortify
-1 Mox Amber
-1 Murder
 1 Necropotence
 1 Night's Whisper
-1 Nighthawk Scavenger
-1 Obzedat, Ghost Council
 1 Ocelot Pride
 1 Orzhov Basilica
-1 Orzhov Guildmage
-1 Orzhov Signet
-1 Path to Exile
-1 Pearl Medallion
 1 Phyrexian Arena
-1 Phyrexian Reclamation
 8 Plains
-1 Pontiff of Blight
-1 Pristine Talisman
 1 Qala, Ajani's Pridemate
 1 Reanimate
 1 Reliquary Tower
 1 Reprieve
 1 Resplendent Angel
-1 Revitalize
-1 Revival // Revenge
-1 Rhox Faithmender
-1 Righteous Valkyrie
-1 Rodolf Duskbringer
-1 Sanguine Bond
 1 Scoured Barrens
 1 Scrubland
 1 Serra Ascendant
@@ -144,44 +68,19 @@
 1 Sheoldred, the Apocalypse
 1 Shineshadow Snarl
 1 Sign in Blood
-1 Silence
-1 Sinister Monolith
 1 Snowfield Sinkhole
-1 Sorin Markov
 1 Sorin of House Markov // Sorin, Ravenous Neonate
-1 Sorin, Lord of Innistrad
-1 Sorin, Solemn Visitor
-1 Sorin, Vampire Lord
 1 Sorin, Vengeful Bloodlord
 1 Soul Warden
-1 Soul's Attendant
 1 Starscape Cleric
 1 Stroke of Midnight
 1 Sunlit Marsh
 1 Suture Priest
 8 Swamp
-1 Swords to Plowshares
-1 Tainted Field
 1 Test of Endurance
-1 Teysa Karlov
-1 The Battle of Bywater
 1 The Book of Exalted Deeds
-1 The Gaffer
-1 The Meathook Massacre
-1 Tithe Drinker
-1 Tomik, Wielder of Law
-1 Toxic Deluge
-1 Urborg, Tomb of Yawgmoth
-1 Vampiric Tutor
 1 Vault of Champions
-1 Victimize
-1 Village Rites
-1 Vindicate
 1 Vito, Thorn of the Dusk Rose
-1 Vizkopa Guildmage
 1 Voice of the Blessed
-1 Welcoming Vampire
-1 Well of Lost Dreams
 1 Witch of the Moors
 1 Wrath of God
-1 Zulaport Cutthroat
