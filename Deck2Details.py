@@ -1,6 +1,7 @@
 import requests
 import time
 import sys
+from collections import defaultdict
 
 def fetch_card_details(card_name):
     """Fetch card details from the Scryfall API."""
@@ -25,27 +26,37 @@ def fetch_card_details(card_name):
 def process_decklist(input_file, output_file):
     """Reads a decklist, fetches descriptions, and saves them to an output file with a progress indicator."""
     
-    # Read all card names
+    # Read all card names and quantities
+    card_counts = defaultdict(int)
+    
     with open(input_file, "r", encoding="utf-8") as infile:
-        lines = [line.strip() for line in infile if line.strip()]  # Remove empty lines
+        for line in infile:
+            if line.strip():  # Ignore empty lines
+                parts = line.strip().split(" ", 1)
+                if len(parts) > 1 and parts[0].isdigit():
+                    quantity = int(parts[0])
+                    card_name = parts[1]
+                else:
+                    quantity = 1
+                    card_name = parts[0]
 
-    total_cards = len(lines)
+                card_counts[card_name] += quantity  # Aggregate card quantities
+
+    total_cards = len(card_counts)
     processed_cards = 0
 
     with open(output_file, "w", encoding="utf-8") as outfile:
-        for line in lines:
-            parts = line.split(" ", 1)
-            if len(parts) > 1:
-                _, card_name = parts  # Ignore quantity, only take name
-            else:
-                card_name = parts[0]
+        outfile.write(f"Total unique cards: {total_cards}\n")
+        outfile.write(f"Total deck size: {sum(card_counts.values())}\n")
+        outfile.write("=" * 40 + "\n\n")
 
+        for card_name, quantity in card_counts.items():
             card_info = fetch_card_details(card_name)
             processed_cards += 1
 
             if card_info:
                 # Formatting output
-                outfile.write(f"**{card_info['name']}**\n")
+                outfile.write(f"**{card_info['name']}** (x{quantity})\n")
                 outfile.write(f"Mana Cost: {card_info['mana_cost']}\n")
                 outfile.write(f"Type: {card_info['type_line']}\n")
                 if card_info["power"] is not None and card_info["toughness"] is not None:
@@ -57,7 +68,7 @@ def process_decklist(input_file, output_file):
             sys.stdout.write(f"\rProcessing card {processed_cards}/{total_cards}...")
             sys.stdout.flush()
 
-            time.sleep(0.1)  # Avoid rate-limiting
+            time.sleep(0.11)  # Avoid rate-limiting
 
     print(f"\nDecklist with descriptions saved to {output_file}")
 
