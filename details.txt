@@ -1,0 +1,637 @@
+Total unique cards: 86
+Total deck size: 100
+========================================
+
+**Agent of Masks** (x1)
+Mana Cost: {3}{W}{B}
+Type: Creature — Human Advisor
+Power/Toughness: 2/3
+Text: At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.
+----------------------------------------
+
+**Ajani's Welcome** (x1)
+Mana Cost: {W}
+Type: Enchantment
+Text: Whenever a creature you control enters, you gain 1 life.
+----------------------------------------
+
+**Anguished Unmaking** (x1)
+Mana Cost: {1}{W}{B}
+Type: Instant
+Text: Exile target nonland permanent. You lose 3 life.
+----------------------------------------
+
+**Archangel of Thune** (x1)
+Mana Cost: {3}{W}{W}
+Type: Creature — Angel
+Power/Toughness: 3/4
+Text: Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, put a +1/+1 counter on each creature you control.
+----------------------------------------
+
+**Athreos, God of Passage** (x1)
+Mana Cost: {1}{W}{B}
+Type: Legendary Enchantment Creature — God
+Power/Toughness: 5/4
+Text: Indestructible
+As long as your devotion to white and black is less than seven, Athreos isn't a creature.
+Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+----------------------------------------
+
+**Authority of the Consuls** (x1)
+Mana Cost: {W}
+Type: Enchantment
+Text: Creatures your opponents control enter tapped.
+Whenever a creature an opponent controls enters, you gain 1 life.
+----------------------------------------
+
+**Bastion of Remembrance** (x1)
+Mana Cost: {2}{B}
+Type: Enchantment
+Text: When this enchantment enters, create a 1/1 white Human Soldier creature token.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+----------------------------------------
+
+**Bitterblossom** (x1)
+Mana Cost: {1}{B}
+Type: Kindred Enchantment — Faerie
+Text: At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.
+----------------------------------------
+
+**Black Market Connections** (x1)
+Mana Cost: {2}{B}
+Type: Enchantment
+Text: At the beginning of your first main phase, choose one or more —
+• Sell Contraband — Create a Treasure token. You lose 1 life.
+• Buy Information — Draw a card. You lose 2 life.
+• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (It has every creature type.)
+----------------------------------------
+
+**Bleachbone Verge** (x1)
+Mana Cost: 
+Type: Land
+Text: {T}: Add {B}.
+{T}: Add {W}. Activate only if you control a Plains or a Swamp.
+----------------------------------------
+
+**Bloodletter of Aclazotz** (x1)
+Mana Cost: {1}{B}{B}{B}
+Type: Creature — Vampire Demon
+Power/Toughness: 2/4
+Text: Flying
+If an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)
+----------------------------------------
+
+**Bojuka Bog** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped.
+When this land enters, exile target player's graveyard.
+{T}: Add {B}.
+----------------------------------------
+
+**Brightclimb Pathway // Grimclimb Pathway** (x1)
+Mana Cost: N/A
+Type: Land // Land
+Text: No description available.
+----------------------------------------
+
+**Case of the Uneaten Feast** (x1)
+Mana Cost: {W}
+Type: Enchantment — Case
+Text: Whenever a creature you control enters, you gain 1 life.
+To solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case: Creature cards in your graveyard gain "You may cast this card from your graveyard" until end of turn.
+----------------------------------------
+
+**Cat Collector** (x1)
+Mana Cost: {2}{W}
+Type: Creature — Human Citizen
+Power/Toughness: 3/2
+Text: When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+Whenever you gain life for the first time during each of your turns, create a 1/1 white Cat creature token.
+----------------------------------------
+
+**Celestine, the Living Saint** (x1)
+Mana Cost: {4}{W}
+Type: Legendary Creature — Human Warrior
+Power/Toughness: 3/4
+Text: Flying, lifelink
+Healing Tears — At the beginning of your end step, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+----------------------------------------
+
+**Cliffhaven Vampire** (x1)
+Mana Cost: {2}{W}{B}
+Type: Creature — Vampire Warrior Ally
+Power/Toughness: 2/4
+Text: Flying
+Whenever you gain life, each opponent loses 1 life.
+----------------------------------------
+
+**Command Tower** (x1)
+Mana Cost: 
+Type: Land
+Text: {T}: Add one mana of any color in your commander's color identity.
+----------------------------------------
+
+**Concealed Courtyard** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Creeping Bloodsucker** (x1)
+Mana Cost: {1}{B}
+Type: Creature — Vampire
+Power/Toughness: 1/2
+Text: At the beginning of your upkeep, this creature deals 1 damage to each opponent. You gain life equal to the damage dealt this way.
+----------------------------------------
+
+**Damn** (x1)
+Mana Cost: {B}{B}
+Type: Sorcery
+Text: Destroy target creature. A creature destroyed this way can't be regenerated.
+Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")
+----------------------------------------
+
+**Damnation** (x1)
+Mana Cost: {2}{B}{B}
+Type: Sorcery
+Text: Destroy all creatures. They can't be regenerated.
+----------------------------------------
+
+**Daxos, Blessed by the Sun** (x1)
+Mana Cost: {W}{W}
+Type: Legendary Enchantment Creature — Demigod
+Power/Toughness: 2/*
+Text: Daxos's toughness is equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+Whenever another creature you control enters or dies, you gain 1 life.
+----------------------------------------
+
+**Deadly Dispute** (x1)
+Mana Cost: {1}{B}
+Type: Instant
+Text: As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+----------------------------------------
+
+**Deadly Rollick** (x1)
+Mana Cost: {3}{B}
+Type: Instant
+Text: If you control a commander, you may cast this spell without paying its mana cost.
+Exile target creature.
+----------------------------------------
+
+**Denethor, Ruling Steward** (x1)
+Mana Cost: {1}{W}{B}
+Type: Legendary Creature — Human Noble
+Power/Toughness: 2/4
+Text: At the beginning of your end step, if a creature died under your control this turn, create a 1/1 white Human Soldier creature token.
+{2}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life.
+----------------------------------------
+
+**Desolate Mire** (x1)
+Mana Cost: 
+Type: Land
+Text: {1}, {T}: Add {W}{B}.
+----------------------------------------
+
+**Drana's Emissary** (x1)
+Mana Cost: {1}{W}{B}
+Type: Creature — Vampire Cleric Ally
+Power/Toughness: 2/2
+Text: Flying
+At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
+----------------------------------------
+
+**Elas il-Kor, Sadistic Pilgrim** (x1)
+Mana Cost: {W}{B}
+Type: Legendary Creature — Phyrexian Kor Cleric
+Power/Toughness: 2/2
+Text: Deathtouch
+Whenever another creature you control enters, you gain 1 life.
+Whenever another creature you control dies, each opponent loses 1 life.
+----------------------------------------
+
+**Elenda's Hierophant** (x1)
+Mana Cost: {2}{W}
+Type: Creature — Vampire Cleric
+Power/Toughness: 1/1
+Text: Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, create X 1/1 white Vampire creature tokens with lifelink, where X is its power.
+----------------------------------------
+
+**Enduring Tenacity** (x1)
+Mana Cost: {2}{B}{B}
+Type: Enchantment Creature — Snake Glimmer
+Power/Toughness: 4/3
+Text: Whenever you gain life, target opponent loses that much life.
+When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)
+----------------------------------------
+
+**Essence Channeler** (x1)
+Mana Cost: {1}{W}
+Type: Creature — Bat Cleric
+Power/Toughness: 2/1
+Text: As long as you've lost life this turn, this creature has flying and vigilance.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, put its counters on target creature you control.
+----------------------------------------
+
+**Exemplar of Light** (x1)
+Mana Cost: {2}{W}{W}
+Type: Creature — Angel
+Power/Toughness: 3/3
+Text: Flying
+Whenever you gain life, put a +1/+1 counter on this creature.
+Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.
+----------------------------------------
+
+**Fabled Passage** (x1)
+Mana Cost: 
+Type: Land
+Text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.
+----------------------------------------
+
+**Fetid Heath** (x1)
+Mana Cost: 
+Type: Land
+Text: {T}: Add {C}.
+{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.
+----------------------------------------
+
+**Forlorn Flats** (x1)
+Mana Cost: 
+Type: Land — Desert
+Text: This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Fracture** (x1)
+Mana Cost: {W}{B}
+Type: Instant
+Text: Destroy target artifact, enchantment, or planeswalker.
+----------------------------------------
+
+**Generous Gift** (x1)
+Mana Cost: {2}{W}
+Type: Instant
+Text: Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.
+----------------------------------------
+
+**Godless Shrine** (x1)
+Mana Cost: 
+Type: Land — Plains Swamp
+Text: ({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+----------------------------------------
+
+**Griffin Aerie** (x1)
+Mana Cost: {1}{W}
+Type: Enchantment
+Text: At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Griffin creature token with flying.
+----------------------------------------
+
+**Heliod's Intervention** (x1)
+Mana Cost: {X}{W}{W}
+Type: Instant
+Text: Choose one —
+• Destroy X target artifacts and/or enchantments.
+• Target player gains twice X life.
+----------------------------------------
+
+**Heliod, Sun-Crowned** (x1)
+Mana Cost: {2}{W}
+Type: Legendary Enchantment Creature — God
+Power/Toughness: 5/5
+Text: Indestructible
+As long as your devotion to white is less than five, Heliod isn't a creature.
+Whenever you gain life, put a +1/+1 counter on target creature or enchantment you control.
+{1}{W}: Another target creature gains lifelink until end of turn.
+----------------------------------------
+
+**Indulging Patrician** (x1)
+Mana Cost: {1}{W}{B}
+Type: Creature — Vampire Noble
+Power/Toughness: 1/4
+Text: Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+At the beginning of your end step, if you gained 3 or more life this turn, each opponent loses 3 life.
+----------------------------------------
+
+**Insatiable Avarice** (x1)
+Mana Cost: {B}
+Type: Sorcery
+Text: Spree (Choose one or more additional costs.)
++ {2} — Search your library for a card, then shuffle and put that card on top.
++ {B}{B} — Target player draws three cards and loses 3 life.
+----------------------------------------
+
+**Isolated Chapel** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Kambal, Consul of Allocation** (x1)
+Mana Cost: {1}{W}{B}
+Type: Legendary Creature — Human Advisor
+Power/Toughness: 2/3
+Text: Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.
+----------------------------------------
+
+**Karlov of the Ghost Council** (x1)
+Mana Cost: {W}{B}
+Type: Legendary Creature — Spirit Advisor
+Power/Toughness: 2/2
+Text: Whenever you gain life, put two +1/+1 counters on Karlov.
+{W}{B}, Remove six +1/+1 counters from Karlov: Exile target creature.
+----------------------------------------
+
+**Kaya's Wrath** (x1)
+Mana Cost: {W}{W}{B}{B}
+Type: Sorcery
+Text: Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way.
+----------------------------------------
+
+**Lunar Convocation** (x1)
+Mana Cost: {W}{B}
+Type: Enchantment
+Text: At the beginning of your end step, if you gained life this turn, each opponent loses 1 life.
+At the beginning of your end step, if you gained and lost life this turn, create a 1/1 black Bat creature token with flying.
+{1}{B}, Pay 2 life: Draw a card.
+----------------------------------------
+
+**Marauding Blight-Priest** (x1)
+Mana Cost: {2}{B}
+Type: Creature — Vampire Cleric
+Power/Toughness: 3/2
+Text: Whenever you gain life, each opponent loses 1 life.
+----------------------------------------
+
+**March of the Canonized** (x1)
+Mana Cost: {X}{W}{W}
+Type: Enchantment
+Text: When this enchantment enters, create X 1/1 white Vampire creature tokens with lifelink.
+At the beginning of your upkeep, if your devotion to white and black is seven or greater, create a 4/3 white and black Vampire Demon creature token with flying.
+----------------------------------------
+
+**Mortify** (x1)
+Mana Cost: {1}{W}{B}
+Type: Instant
+Text: Destroy target creature or enchantment.
+----------------------------------------
+
+**Necropotence** (x1)
+Mana Cost: {B}{B}{B}
+Type: Enchantment
+Text: Skip your draw step.
+Whenever you discard a card, exile that card from your graveyard.
+Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.
+----------------------------------------
+
+**Night's Whisper** (x1)
+Mana Cost: {1}{B}
+Type: Sorcery
+Text: You draw two cards and you lose 2 life.
+----------------------------------------
+
+**Ocelot Pride** (x1)
+Mana Cost: {W}
+Type: Creature — Cat
+Power/Toughness: 1/1
+Text: First strike, lifelink
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it.
+----------------------------------------
+
+**Orzhov Basilica** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+{T}: Add {W}{B}.
+----------------------------------------
+
+**Phyrexian Arena** (x1)
+Mana Cost: {1}{B}{B}
+Type: Enchantment
+Text: At the beginning of your upkeep, you draw a card and you lose 1 life.
+----------------------------------------
+
+**Plains** (x8)
+Mana Cost: 
+Type: Basic Land — Plains
+Text: ({T}: Add {W}.)
+----------------------------------------
+
+**Qala, Ajani's Pridemate** (x1)
+Mana Cost: {3}{W}
+Type: Legendary Creature — Cat Warrior
+Power/Toughness: 3/3
+Text: Whenever Qala attacks, other attacking creatures you control get +X/+0 until end of turn, where X is the number of counters on Qala.
+Whenever you gain life, put a +1/+1 counter on Qala.
+{3}{W}: You gain 1 life.
+----------------------------------------
+
+**Reanimate** (x1)
+Mana Cost: {B}
+Type: Sorcery
+Text: Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.
+----------------------------------------
+
+**Reliquary Tower** (x1)
+Mana Cost: 
+Type: Land
+Text: You have no maximum hand size.
+{T}: Add {C}.
+----------------------------------------
+
+**Reprieve** (x1)
+Mana Cost: {1}{W}
+Type: Instant
+Text: Return target spell to its owner's hand.
+Draw a card.
+----------------------------------------
+
+**Resplendent Angel** (x1)
+Mana Cost: {1}{W}{W}
+Type: Creature — Angel
+Power/Toughness: 3/3
+Text: Flying
+At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
+{3}{W}{W}{W}: Until end of turn, this creature gets +2/+2 and gains lifelink.
+----------------------------------------
+
+**Scoured Barrens** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Scrubland** (x1)
+Mana Cost: 
+Type: Land — Plains Swamp
+Text: ({T}: Add {W} or {B}.)
+----------------------------------------
+
+**Serra Ascendant** (x1)
+Mana Cost: {W}
+Type: Creature — Human Monk
+Power/Toughness: 1/1
+Text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+As long as you have 30 or more life, this creature gets +5/+5 and has flying.
+----------------------------------------
+
+**Shattered Sanctum** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped unless you control two or more other lands.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Sheoldred, the Apocalypse** (x1)
+Mana Cost: {2}{B}{B}
+Type: Legendary Creature — Phyrexian Praetor
+Power/Toughness: 4/5
+Text: Deathtouch
+Whenever you draw a card, you gain 2 life.
+Whenever an opponent draws a card, they lose 2 life.
+----------------------------------------
+
+**Shineshadow Snarl** (x1)
+Mana Cost: 
+Type: Land
+Text: As this land enters, you may reveal a Plains or Swamp card from your hand. If you don't, this land enters tapped.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Sign in Blood** (x1)
+Mana Cost: {B}{B}
+Type: Sorcery
+Text: Target player draws two cards and loses 2 life.
+----------------------------------------
+
+**Snowfield Sinkhole** (x1)
+Mana Cost: 
+Type: Snow Land — Plains Swamp
+Text: ({T}: Add {W} or {B}.)
+This land enters tapped.
+----------------------------------------
+
+**Sorin of House Markov // Sorin, Ravenous Neonate** (x1)
+Mana Cost: N/A
+Type: Legendary Creature — Human Noble // Legendary Planeswalker — Sorin
+Text: No description available.
+----------------------------------------
+
+**Sorin, Vengeful Bloodlord** (x1)
+Mana Cost: {2}{W}{B}
+Type: Legendary Planeswalker — Sorin
+Text: During your turn, creatures and planeswalkers you control have lifelink.
++2: Sorin deals 1 damage to target player or planeswalker.
+−X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.
+----------------------------------------
+
+**Soul Warden** (x1)
+Mana Cost: {W}
+Type: Creature — Human Cleric
+Power/Toughness: 1/1
+Text: Whenever another creature enters, you gain 1 life.
+----------------------------------------
+
+**Starscape Cleric** (x1)
+Mana Cost: {1}{B}
+Type: Creature — Bat Cleric
+Power/Toughness: 2/1
+Text: Offspring {2}{B} (You may pay an additional {2}{B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+This creature can't block.
+Whenever you gain life, each opponent loses 1 life.
+----------------------------------------
+
+**Stroke of Midnight** (x1)
+Mana Cost: {2}{W}
+Type: Instant
+Text: Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token.
+----------------------------------------
+
+**Sunlit Marsh** (x1)
+Mana Cost: 
+Type: Land — Plains Swamp
+Text: ({T}: Add {W} or {B}.)
+This land enters tapped.
+----------------------------------------
+
+**Suture Priest** (x1)
+Mana Cost: {1}{W}
+Type: Creature — Phyrexian Cleric
+Power/Toughness: 1/1
+Text: Whenever another creature you control enters, you may gain 1 life.
+Whenever a creature an opponent controls enters, you may have that player lose 1 life.
+----------------------------------------
+
+**Swamp** (x8)
+Mana Cost: 
+Type: Basic Land — Swamp
+Text: ({T}: Add {B}.)
+----------------------------------------
+
+**Test of Endurance** (x1)
+Mana Cost: {2}{W}{W}
+Type: Enchantment
+Text: At the beginning of your upkeep, if you have 50 or more life, you win the game.
+----------------------------------------
+
+**The Book of Exalted Deeds** (x1)
+Mana Cost: {W}{W}{W}
+Type: Legendary Artifact
+Text: At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel creature token with flying.
+{W}{W}{W}, {T}, Exile The Book of Exalted Deeds: Put an enlightened counter on target Angel. It gains "You can't lose the game and your opponents can't win the game." Activate only as a sorcery.
+----------------------------------------
+
+**Vault of Champions** (x1)
+Mana Cost: 
+Type: Land
+Text: This land enters tapped unless you have two or more opponents.
+{T}: Add {W} or {B}.
+----------------------------------------
+
+**Vito, Thorn of the Dusk Rose** (x1)
+Mana Cost: {2}{B}
+Type: Legendary Creature — Vampire Cleric
+Power/Toughness: 1/3
+Text: Whenever you gain life, target opponent loses that much life.
+{3}{B}{B}: Creatures you control gain lifelink until end of turn.
+----------------------------------------
+
+**Voice of the Blessed** (x1)
+Mana Cost: {W}{W}
+Type: Creature — Spirit Cleric
+Power/Toughness: 2/2
+Text: Whenever you gain life, put a +1/+1 counter on this creature.
+As long as this creature has four or more +1/+1 counters on it, it has flying and vigilance.
+As long as this creature has ten or more +1/+1 counters on it, it has indestructible.
+----------------------------------------
+
+**Witch of the Moors** (x1)
+Mana Cost: {3}{B}{B}
+Type: Creature — Human Warlock
+Power/Toughness: 4/4
+Text: Deathtouch
+At the beginning of your end step, if you gained life this turn, each opponent sacrifices a creature of their choice and you return up to one target creature card from your graveyard to your hand.
+----------------------------------------
+
+**Wrath of God** (x1)
+Mana Cost: {2}{W}{W}
+Type: Sorcery
+Text: Destroy all creatures. They can't be regenerated.
+----------------------------------------
+
